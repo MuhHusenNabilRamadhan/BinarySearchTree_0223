@@ -161,6 +161,17 @@ int  main()
         char ch;
         cin >> ch;
         cout << endl;
+
+        switch (ch)
+        {
+        case '1':
+        {
+            x.insert();
+            break;
+        }
+        
+    }
+
     }
 
 
